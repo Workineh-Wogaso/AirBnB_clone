@@ -1,7 +1,7 @@
 0x00. AirBnB clone - The console
 By Guillaume
 Weight: 5
-Project to be done in teams of 2 people (My team: Arsene Awounou, Pericles Adjovi)
+Project to be done in teams of 2 people (My team: Workineh Wogaso, Sofiyullah Abdullah)
 Concepts
 For this project, students are expected to look at these concepts:
 
