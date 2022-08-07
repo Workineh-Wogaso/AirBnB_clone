@@ -1,0 +1,2 @@
+find . -name "*.py" | xargs pep8
+
